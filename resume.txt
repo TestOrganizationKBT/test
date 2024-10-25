@@ -1,1 +1,4 @@
-test
+경력 : test
+학력 : test
+이름 : gerard
+나이 : 29
